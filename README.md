@@ -1,15 +1,14 @@
 # Lab2Web
 ## Belajar CSS dasar HTML
 ![Gambar](SSC1.jpeg)
-![Gambar](SC1.jpeg)
+![Gambar](FIX1.PNG)
 ![Gambar](SSC2.jpeg)
-![Gambar](SC2.jpeg)
+![Gambar](FIX 2.PNG)
 ![Gambar](SSC3.jpeg)
-![Gambar](SC3.jpeg)
+![Gambar](FIX3.PNG)
 ![Gambar](SSC4.jpeg)
-![Gambar](SC4.jpeg)
 ![Gambar](SSC5.jpeg)
-![Gambar](SC5.jpeg)
+
 
 
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
