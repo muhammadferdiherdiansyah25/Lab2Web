@@ -13,7 +13,8 @@
 
 
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
-![Gambar](SCC1.jpeg)
+![Gambar](SCC1.PNG)
+![Gambar](SCC2.PNG)
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
    Jawab : elemen h1{...} untuk menampilkan heading 1 , intro h1 {...} untuk memberi style pada output tertentu . 
