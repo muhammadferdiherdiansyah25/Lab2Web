@@ -15,6 +15,7 @@
 ![Gambar](SCC1.PNG)
 ![Gambar](FIX4.PNG)
 
+
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
    Jawab : elemen h1{...} untuk menampilkan heading 1 , intro h1 {...} untuk memberi style pada output tertentu . 
 
