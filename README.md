@@ -1,5 +1,4 @@
 # Lab2Web
-# Web1Lab1
 ## Belajar CSS dasar HTML
 ![Gambar](SSC 1.jpeg)
 
