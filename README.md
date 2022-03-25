@@ -1,11 +1,11 @@
 # Lab2Web
 ## Belajar CSS dasar HTML
-![Gambar](SSC 1.jpeg)
+![Gambar](SSC1.jpeg)
 
-![Gambar](SSC 2.jpeg)
+![Gambar](SSC2.jpeg)
 
-![Gambar](SSC 3.jpeg)
+![Gambar](SSC3.jpeg)
 
-![Gambar](SSC 4.jpeg)
+![Gambar](SSC4.jpeg)
 
-![Gambar](SSC 5.jpeg)
+![Gambar](SSC5.jpeg)
