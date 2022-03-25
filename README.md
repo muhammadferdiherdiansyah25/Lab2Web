@@ -3,7 +3,7 @@
 ![Gambar](SSC1.jpeg)
 ![Gambar](FIX1.PNG)
 ![Gambar](SSC2.jpeg)
-![Gambar](FIX 2.PNG)
+![Gambar](FIX2.PNG)
 ![Gambar](SSC3.jpeg)
 ![Gambar](FIX3.PNG)
 ![Gambar](SSC4.jpeg)
